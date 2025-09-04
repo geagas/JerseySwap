@@ -1,0 +1,5 @@
+{
+  "name": "Jersey Swap",
+  "description": "An AI-powered application that allows users to upload a photo of a football player and a separate jersey image, then seamlessly swaps the jersey in the photo using AI.",
+  "requestFramePermissions": []
+}
